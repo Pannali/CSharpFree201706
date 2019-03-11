@@ -1,6 +1,6 @@
 
 ## Egy jól használható, magyar nyelvű C# jegyzet ami ingyenesen letölthető
-[Reiter István: C# programozás lépésről lépésre](https://devportal.hu/download/E-bookok/csharp%20jegyzet/C%23%20programozas%20lepesrol%20lepesre%20-%20Reiter%20Istvan%20(frissitett%20tartalommal%202012.10.15).pdf)
+[Reiter István: C# programozás lépésről lépésre](https://reiteristvan.files.wordpress.com/2018/01/reiter-istvc3a1n-c-programozc3a1s-lc3a9pc3a9src591l-lc3a9pc3a9sre.pdf)
  vagy [meg is](https://bookline.hu/product/home.action?_v=_&id=116239&type=22) [vásárolható](https://www.libri.hu/konyv/reiter_istvan.c-programozas-lepesrol-lepesre.html)
 
 ## Előkészületek
